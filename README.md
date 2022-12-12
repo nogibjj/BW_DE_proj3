@@ -12,12 +12,10 @@ Generate a script that queries a database: MySQL, Sqlite, Spark or a cloud syste
 
 
 ### Questions
-An overview of the world cups: 
+An overview of the world cups & players: 
 1. Which world cup has the most goals scored, and how many goals it is.
 2. Which country won the most time os world cups, how many times.
-
-An overview of players: 
-2. Who is the Player that have most goals
+3. Who is the Player that have most goals
 4. Who is the hardest player (attended the most of matches).
 
 ### Usage
