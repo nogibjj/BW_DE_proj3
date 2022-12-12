@@ -9,4 +9,3 @@ black==22.10.0
 google-cloud-bigquery==3.3.6
 google-cloud-bigquery-storage==2.16.2
 db-dtypes==1.0.4
-dataframe-image==0.1.3
